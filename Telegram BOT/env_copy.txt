@@ -1,0 +1,14 @@
+#AUTH CONFIGURATION
+API_ID = ''
+API_HASH = ''
+BOT_TOKEN = ''
+PHONENUMBER = ''
+
+#PATH CONFIGURATION
+PATH_DATASET = src\data\dataset\
+PATH_ML_MODEL = src\data\model\
+
+#DATASET NAME
+TRAIN_DATASET = train_dataset.csv
+VECTORIZER_DATA = vdata.pkl
+MODEL_DATA = mdata.pkl
